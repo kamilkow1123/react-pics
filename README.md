@@ -1,12 +1,12 @@
 # Pics
 
----
 
 ## Description
 Simple app built with React using Unsplash API.
 
 ### Technologies
 - React
+- JavaScript
 - Semantic UI
 - axios
 
